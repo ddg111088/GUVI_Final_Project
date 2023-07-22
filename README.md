@@ -9,7 +9,7 @@ You are working for a new-age insurance company and employ mutiple outreach plan
 
 Undersampling and SMOTE are two of the most common methods for balancing imbalanced data. Undersampling reduces the number of examples in the majority class, while SMOTE creates synthetic examples of the minority class. This can help to improve the performance of machine learning models on imbalanced datasets.
 
-Here are some of the advantages of using undersampling and SMOTE to balance data:
+### Here are some of the advantages of using undersampling and SMOTE to balance data:
 
 #### 1.They can be effective in improving the performance of machine learning models on imbalanced datasets.
 #### 2.They are relatively easy to implement.
