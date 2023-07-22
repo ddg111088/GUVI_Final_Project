@@ -11,9 +11,9 @@ Undersampling and SMOTE are two of the most common methods for balancing imbalan
 
 Here are some of the advantages of using undersampling and SMOTE to balance data:
 
-# 1.They can be effective in improving the performance of machine learning models on imbalanced datasets.
-# 2.They are relatively easy to implement.
-# 3.They can be used with a variety of machine learning algorithms.
+#### 1.They can be effective in improving the performance of machine learning models on imbalanced datasets.
+#### 2.They are relatively easy to implement.
+#### 3.They can be used with a variety of machine learning algorithms.
 
 I used the F1 score to evaluate the performance of my binary classification model. The F1 score is a measure of accuracy that takes into account both the false positive rate and the false negative rate. It is calculated as the harmonic mean of precision and recall.
 
@@ -32,8 +32,8 @@ The machine learning algorithm and its F1 score are as follows:
 
 Here are some conclusions that we can build with the scores you provided:
 
-XGBoost had the highest F1 score with both undersampling and SMOTE. This suggests that XGBoost is the most effective algorithm for this problem.
-Logistic regression had the lowest F1 score with both undersampling and SMOTE. This suggests that logistic regression is not the most effective algorithm for this problem.
-The F1 scores with SMOTE were slightly higher than the F1 scores with undersampling. This suggests that SMOTE may be a slightly more effective method for balancing the data than undersampling.
-The F1 scores for all algorithms were relatively low. This suggests that the data is highly imbalanced, and that it may be difficult to achieve high accuracy with any algorithm.
-Overall, the results suggest that XGBoost is the most effective algorithm for this problem. However, the data is highly imbalanced, so it may be difficult to achieve high accuracy with any algorithm. Further experimentation with different algorithms and parameters may be necessary to improve the performance of the model.
+##### XGBoost had the highest F1 score with both undersampling and SMOTE. This suggests that XGBoost is the most effective algorithm for this problem.
+##### Logistic regression had the lowest F1 score with both undersampling and SMOTE. This suggests that logistic regression is not the most effective algorithm for this problem.
+##### The F1 scores with SMOTE were slightly higher than the F1 scores with undersampling. This suggests that SMOTE may be a slightly more effective method for balancing the data than undersampling.
+##### The F1 scores for all algorithms were relatively low. This suggests that the data is highly imbalanced, and that it may be difficult to achieve high accuracy with any algorithm.
+##### Overall, the results suggest that XGBoost is the most effective algorithm for this problem. However, the data is highly imbalanced, so it may be difficult to achieve high accuracy with any algorithm. Further experimentation with different algorithms and parameters may be necessary to improve the performance of the model.
