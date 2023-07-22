@@ -21,12 +21,13 @@ The F1 score is calculated as follows:
 F1 = 2 * (precision * recall) / (precision + recall)
 The machine learning algorithm and its F1 score are as follows:
 
-Algorithm	                       F1 score with undersampling	            F1 score with SMOTE
-Logistic regression	              0.5190930787589498	                     0.5106796116504854
-K-Nearest Neighbors (KNN)	        0.5052950075642966	                     0.4970414201183432
-Decision tree	                    0.5023491145645103	                     0.4970414201183432
-XGBoost	                          0.5723058028860915	                     0.5808045165843332
-Random forest	                    0.5502768872048964	                     0.5676105631562203
+|Algorithm	                       |F1 score with undersampling	           |F1 score with SMOTE
+|--|--|--|
+|Logistic regression	              |0.5190930787589498	                     |0.5106796116504854
+|K-Nearest Neighbors (KNN)	        |0.5052950075642966	                     |0.4970414201183432
+|Decision tree	                    |0.5023491145645103	                     |0.4970414201183432
+|XGBoost	                          |0.5723058028860915	                     |0.5808045165843332
+|Random forest	                    |0.5502768872048964	                     |0.5676105631562203
 
 Here are some conclusions that we can build with the scores you provided:
 
