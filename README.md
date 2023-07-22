@@ -30,7 +30,7 @@ The machine learning algorithm and its F1 score are as follows:
 |XGBoost	                          |0.5723058028860915	                     |0.5808045165843332
 |Random forest	                    |0.5502768872048964	                     |0.5676105631562203
 
-Here are some conclusions that we can build with the scores you provided:
+### Here are some conclusions that we can build with the scores you provided:
 
 ##### XGBoost had the highest F1 score with both undersampling and SMOTE. This suggests that XGBoost is the most effective algorithm for this problem.
 ##### Logistic regression had the lowest F1 score with both undersampling and SMOTE. This suggests that logistic regression is not the most effective algorithm for this problem.
