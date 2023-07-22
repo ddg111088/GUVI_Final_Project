@@ -11,9 +11,9 @@ Undersampling and SMOTE are two of the most common methods for balancing imbalan
 
 Here are some of the advantages of using undersampling and SMOTE to balance data:
 
-.They can be effective in improving the performance of machine learning models on imbalanced datasets.
-.They are relatively easy to implement.
-.They can be used with a variety of machine learning algorithms.
+They can be effective in improving the performance of machine learning models on imbalanced datasets.
+They are relatively easy to implement.
+They can be used with a variety of machine learning algorithms.
 
 I used the F1 score to evaluate the performance of my binary classification model. The F1 score is a measure of accuracy that takes into account both the false positive rate and the false negative rate. It is calculated as the harmonic mean of precision and recall.
 
