@@ -5,7 +5,7 @@
 You are working for a new-age insurance company and employ mutiple outreach plans to sell term insurance to your customers. Telephonic marketing campaigns still remain one of the most effective way to reach out to people however they incur a lot of cost. Hence, it is important to identify the customers that are most likely to convert beforehand so that they can be specifically targeted via call. We are given the historical marketing data of the insurance company and are required to build a ML model that will predict if a client will subscribe to the insurance. 
 
 
-### The following result was obtained using several ML algorithms along with undersampling and SMOTE techniques:--
+## The following result was obtained using several ML algorithms along with undersampling and SMOTE techniques:--
 
 Undersampling and SMOTE are two of the most common methods for balancing imbalanced data. Undersampling reduces the number of examples in the majority class, while SMOTE creates synthetic examples of the minority class. This can help to improve the performance of machine learning models on imbalanced datasets.
 
